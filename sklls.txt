@@ -1,0 +1,14 @@
+Programming Fundamentals.
+JavaScript Syntax.
+DOM Manipulation.
+Event Handling.
+Error Handling.
+Debugging.
+Version Contro.
+Web Development Concepts.
+Responsive Design.
+Frameworks and Libraries.
+Teamwork.
+Critical Thinking.
+Networking.
+Discipline
